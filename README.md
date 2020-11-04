@@ -1,16 +1,9 @@
-# people_counter
+# People Counter App
 
-A new Flutter project.
+Simple training app that shows how many people are in a restaurant and counts the available sits
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The app is pretty simple, you add people clicking on the "+1" button and remove people clicking on "-1" button. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The maximium capacity on the local is, in the current version, set at 11 total.
